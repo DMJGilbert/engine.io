@@ -31,7 +31,7 @@
     "cors": "~2.8.5",
     "debug": "~4.1.0",
     "engine.io-parser": "~4.0.0-alpha.0",
-    "ws": "^7.1.2"
+    "ws": "git+https://github.com/DMJGilbert/ws.git"
   },
   "devDependencies": {
     "babel-eslint": "^8.0.2",
